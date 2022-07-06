@@ -1,1 +1,31 @@
-/* Write your CSS here! */
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: black;
+    background: rgba(4, 212, 118, 0.904);
+  }
+  
+  header {
+    background: rgba(8, 241, 152, 0.863);
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: rgb(14, 108, 196);
+    text-align: center;
+  }
+
+  h2.center {
+    text-align: center;
+    color: rgb(255, 174, 0);
+  }
+
+  #intro {
+    color: blueviolet;
+  }
